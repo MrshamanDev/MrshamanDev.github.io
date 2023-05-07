@@ -72,23 +72,6 @@
 <br/>  
 
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/MrshamanDev" target="_blank">
-<img src=instagram-vector-social-media-icon-instagram-logo-illustration_153454-525.avif&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/Shaman_ig" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/user/smurfy786" target="_blank">
-<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=MrshamanDev&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
 
@@ -99,10 +82,7 @@
   
 
 <br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31uxggpln3tcll2lsozvxouxadqy&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true" /></div>  
-
-<br/>  
+ 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=MrshamanDev&&style=flat-square" align="center" />
